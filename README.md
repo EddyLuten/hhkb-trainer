@@ -9,6 +9,12 @@ indicate that you've messed up.
 
 I've only tested this on OS X.
 
+## Usage
+
+```sh
+python3 hhkb.py
+```
+
 ## Super Exciting Video
 
 [![HHKB Trainer in Action](https://i.ytimg.com/vi/gBltuGtHJEA/0.jpg)](http://youtu.be/gBltuGtHJEA)
